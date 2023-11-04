@@ -8,6 +8,7 @@
 
 **LAWGPT** is an innovative project that leverages the power of Language Models, including OpenAI's GPT, to provide automated legal document analysis and retrieval of answers to legal queries. It's built using [LangChain](https://langchain.org/) and integrates OpenAI's API for efficient information retrieval. Additionally, this project utilizes the open-source embedding model `intfloat/multilingual-e5-large` to facilitate the embedding of legal documents.
 
+![LAWGPT (1)](https://github.com/Sameeruddin8/LawGPT/assets/102674044/9f167b5b-c851-4cbc-8d33-7ca6e0c54eac)
 
 
 ## Table of Contents
