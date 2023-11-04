@@ -1,0 +1,104 @@
+/* Dark theme */  
+body {
+    background-color: #1D1D1D;
+    color: #fff;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #131313;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;  
+  }
+  
+  .header h1 {
+    margin: 0;
+    text-align: center;
+  }
+  
+  /* Form */
+  .form-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #292929;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    text-align: center; 
+    margin-bottom: 20px;
+  }
+  
+  /* Input */
+  .input-container {
+    margin-bottom: 20px;  
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-container textarea {
+    background-color: #131313;
+    color: #fff;
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #4c4c4c;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+  }
+  
+  /* Submit button */
+  button[type="submit"] {
+    background-color: #68c8af;
+    color: #fff;
+    width: 100%;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;  
+  }
+  
+  /* Disclaimer */
+  .disclaimer {
+    font-size: 1.1em;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .disclaimer p {
+    margin: 0;  
+  }
+  
+  .disclaimer h3 {
+    color: rgb(4, 247, 226);
+    margin-top: 0;
+  }
+  /* Footer */
+  .footer {
+    background-color: #131313;
+    color: #fff;
+    text-align: center; 
+    padding: 20px;
+  }
+  
+  .footer a {
+    color: #68c8af;
+  }
+  
+  .result p {
+    font-size: 25px;
+    font-weight: bold; 
+  }
