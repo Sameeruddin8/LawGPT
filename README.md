@@ -31,6 +31,7 @@ Before you begin, ensure you have the following requirements:
 
 - Python 3.7+
 - Git
+- VS Code
 
 ### Installation
 
