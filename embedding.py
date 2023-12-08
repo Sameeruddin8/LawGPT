@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 os.getenv("OPENAI_API_KEY") 
 
-pdf = 'Data/Resume.pdf'
+pdf = 'Data/lawgpt.pdf'
 if pdf is not None:
     pdf_reader = PdfReader(pdf)
     text = ""
